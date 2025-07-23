@@ -2,8 +2,8 @@
 
 ## Environments
 
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--adobe-summit--guptapawan86.aem.page/
+- Live: https://main--adobe-summit--guptapawan86.aem.live/
 
 ## Documentation
 
